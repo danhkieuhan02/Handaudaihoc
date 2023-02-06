@@ -16,7 +16,7 @@ I study Information Technology (IT) https://www.nctu.edu.vn/IT
 
 ✍ I'm a student of: Nam Can Tho University (DNC)
 
-One of fact about me: I'm not live, i'm just exist. But i'll upgrade myself and do many things you can't think of in the nearest future 💖
+Once of fact about me: I'm not live, i'm just exist. But i'll upgrade myself and do many things you can't think of in the nearest future 💖
 </p>
 
 <h2> Contact for work| Liên hệ công việc: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px"> </h2>
