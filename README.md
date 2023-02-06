@@ -4,24 +4,20 @@
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺,Danh Kieu Han
+  𝗛𝗲𝗹𝗹𝗼, my name's Danh Kieu Han
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
-<h3 align="center">.... NPL  </h3>
-# IT
+<p>
+You can contact with me at zalo chat name Handaudaihoc, 0917664111.
 
-Hi, I'm Danh Kieu Han
-
-This is me, Kieu Han, I study Information technology (IT) https://www.nctu.edu.vn/IT
-
-I wanna be a NLP of artificial intelligence and network security
+I study Information Technology (IT) https://www.nctu.edu.vn/IT
 
 ✍ I'm a student of: Nam Can Tho University (DNC)
 
-I will upgrade myself and do many things you can't think of in the nearest future 💖
-
+One of fact about me: I'm not live, i'm just exist. But i'll upgrade myself and do many things you can't think of in the nearest future 💖
+</p>
 
 <h2> Contact for work| Liên hệ công việc: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px"> </h2>
 <p align="center">
@@ -44,7 +40,7 @@ I will upgrade myself and do many things you can't think of in the nearest futur
   <a href="matan13@gmail.com" alt="Email">
   <img src="https://img.icons8.com/3d-fluency/65/000000/gmail.png"/>
   
-  
+ 
   <h2> Skills|Kĩ năng: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <h4> Languages|Ngôn ngữ: </h4>
 <span> 
@@ -56,7 +52,7 @@ I will upgrade myself and do many things you can't think of in the nearest futur
 </span>
 
  <br>
-    Here are some [🦜parrots]:
+    Here are some [🦜]:
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
