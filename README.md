@@ -1,9 +1,9 @@
-<img src= "profilegithub.jpg">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <h1 align="center">
   <a target="_blank">
+    <img src= "profilegithub.jpg" width="300px" style= "max-width:100%;">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝗛𝗲𝗹𝗹𝗼, my name's Han!!
