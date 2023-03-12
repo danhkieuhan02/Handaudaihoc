@@ -3,7 +3,6 @@
 
 <h1 align="center">
   <a target="_blank">
-    <img src= "profilegithub.jpg" width="300px" style= "max-width:100%;">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝗛𝗲𝗹𝗹𝗼, my name's Han!!
@@ -93,5 +92,5 @@ Once of fact about me: I'm not live, i'm just exist. But i'll upgrade myself and
 <p>
 
 # Thank you for visiting my profile💖
-
+<img src= "profilegithub.jpg" width="300px" style= "max-width:100%;">
 ![Visitor Count](https://profile-counter.glitch.me/Handaudaihoc/count.svg)
