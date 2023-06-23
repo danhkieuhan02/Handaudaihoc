@@ -90,5 +90,5 @@ One of the facts about me: I'm not live, I just exist. But I'll upgrade myself a
 <p>
 
 # Thank you for visiting my profile💖
-<img src= "profilegithub.jpg" width="300px" style= "max-width:100%;">
-![Visitor Count](https://profile-counter.glitch.me/Handaudaihoc/count.svg)
+<img src= "profilegithub.jpg" width="300px" style= "max-width:100px;">
+![Visitor Count](https://profile-counter.glitch.me/danhkieuhan02/count.svg)
