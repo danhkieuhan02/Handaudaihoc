@@ -13,9 +13,7 @@
 <p>
 You can contact me at zalo chat name Kieu Han, 0917664111.
 
-I study Information Technology (IT) https://www.nctu.edu.vn/IT
-
-✍ I'm a student of: Nam Can Tho University (DNC)
+✍ I'm studying Information Technology (IT) at Nam Can Tho University (DNC) https://www.nctu.edu.vn/IT
 
 One of the facts about me: I'm not live, I just exist. But I'll upgrade myself and do many things you can't think of in the nearest future 💖
 </p>
