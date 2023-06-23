@@ -5,19 +5,19 @@
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝗛𝗲𝗹𝗹𝗼, my name's Han!!
+  𝗛𝗲𝗹𝗹𝗼,I'mm Danh Kieu Han!
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
 <p>
-You can contact with me at zalo chat name Handaudaihoc, 0917664111.
+You can contact me at zalo chat name Handaudaihoc, 0917664111.
 
 I study Information Technology (IT) https://www.nctu.edu.vn/IT
 
 ✍ I'm a student of: Nam Can Tho University (DNC)
 
-Once of fact about me: I'm not live, i'm just exist. But i'll upgrade myself and do many things you can't think of in the nearest future 💖
+One of the facts about me: I'm not live, I just exist. But I'll upgrade myself and do many things you can't think of in the nearest future 💖
 </p>
 
 <h2> Contact for work| Liên hệ công việc: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px"> </h2>
