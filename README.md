@@ -5,7 +5,7 @@
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝗛𝗲𝗹𝗹𝗼,I'm Danh Kieu Han!
+  𝗛𝗲𝗹𝗹𝗼, I'm Danh Kieu Han!
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
